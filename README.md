@@ -11,14 +11,20 @@ Generate spending summaries
 Identify highest spending categories
 
 # Concepts Used
+
 File Handling (CSV)
+
 Functions and Modular Programming
+
 Dictionaries (defaultdict)
+
 Loops and Conditional Statements
+
 Exception Handling
 
 # MY OUTPUT
 PS D:\python project> python expense_tracker.py
+
 ===== Smart Expense Tracker =====
 1. Add Expense
 2. View Expenses
@@ -42,6 +48,7 @@ Enter choice: 2
 Date: 2026-04-16 | Category: Travel | Amount: $500.0 | Desc: train ticket
 
 ===== Smart Expense Tracker =====
+
 1. Add Expense
 2. View Expenses
 3. Show Summary
@@ -55,6 +62,7 @@ Total Spending: $500.00
 Highest Spending Category: Travel
 
 ===== Smart Expense Tracker =====
+
 1. Add Expense
 2. View Expenses
 3. Show Summary
